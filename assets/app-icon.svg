@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4361ee;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7209b7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="512" height="512" rx="100" fill="url(#bg)"/>
+  <!-- Facebook-like 'f' with arrow -->
+  <path d="M280 400V280H340L350 220H280V180C280 162 289 145 318 145H355V95C355 95 321 90 289 90C222 90 180 128 180 200V220H125V280H180V400H280Z" fill="white"/>
+  <!-- Arrow/automation symbol -->
+  <path d="M370 320L420 280L370 240V265H320V295H370V320Z" fill="#06d6a0"/>
+  <path d="M140 190L90 230L140 270V245H190V215H140V190Z" fill="#06d6a0"/>
+</svg>
